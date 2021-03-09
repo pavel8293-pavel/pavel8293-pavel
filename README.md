@@ -31,7 +31,7 @@ My name is Pavel. I'm from Minsk. I'm front-end developer.
    
    [Code](https://github.com/pavel8293-pavel/RS-School-tasks/tree/shelter). My first experience in HTML and CSS layout. Completed during education at Rolling Scopes School Front-end course.
 
-2. [Calculator](https://pavel8293-pavel.github.io/RS-School-tasks/calculator/src/): 
+2. [Calculator](https://pavel8293-pavel.github.io/RS-School-tasks/calculator/dist/): 
    
    [Code](https://github.com/pavel8293-pavel/RS-School-tasks/tree/calculator/calculator). Simple web-application repeating calculator functions. Used HTML, CSS, JS. Completed during education at Rolling Scopes School Front-end course.
 
