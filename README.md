@@ -17,7 +17,6 @@ My name is Pavel. I'm from Minsk. I'm front-end developer.
     * Babel
     * Webpack
     * ESLint
-    * Angular
     * Phaser 3
 
 2. CSS ![CSS](/../main/assets/003-css.png):
